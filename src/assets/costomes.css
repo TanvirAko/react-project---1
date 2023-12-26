@@ -1,0 +1,26 @@
+.background_colors{
+    background-color: #4d6c6c;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+}
+.box{
+    width: 1002px;
+    margin: auto;
+    border: solid 1px;
+    margin-top: 50px;
+    border-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.row_box{
+    width: 200px;
+    padding: 5px;
+    border: 1px solid brown;
+}
+.tital_box{
+    font-size: 10px;
+    font-weight: 900;
+    text-align: center;
+}
